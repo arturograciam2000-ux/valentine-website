@@ -53,7 +53,7 @@ button.addEventListener("click", () => {
     button.textContent = "¡Cargando amor! ❤️";
     // Redirección a WhatsApp para evitar el error de PHP
     const mensaje = encodeURIComponent("¡Sí, Fatima quiere ser tu cita de San Valentín! ❤️");
-    window.location.href = `https://wa.me/TUNUMEROTELEFONO?text=${mensaje}`; 
+    window.location.href = `https://wa.me/529612503743?text=${mensaje}`; 
     // ^ SUSTITUYE CON TU NÚMERO (Ej: 521XXXXXXXXXX)
   }
 });
